@@ -1,0 +1,10 @@
+*
+!.gitignore
+!mods/
+!mods/**/*
+!resourcepacks/
+!resourcepacks/**/*
+!screenshots/
+!screenshots/**/*
+!shaderpacks/
+!shaderpacks/**/*
