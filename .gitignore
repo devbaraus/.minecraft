@@ -1,7 +1,7 @@
 *
 !.gitignore
 !mods/
-!mods/**/*
+!mods/*.jar
 !resourcepacks/
 !resourcepacks/**/*
 !screenshots/
