@@ -10,3 +10,5 @@
 !shaderpacks/**/*.zip
 !config/
 !config/**/*
+!XaeroWaypoints/
+!XaeroWaypoints/**/*

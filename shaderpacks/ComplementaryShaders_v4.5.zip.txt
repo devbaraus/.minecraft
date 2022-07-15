@@ -1,4 +1,4 @@
-#Tue Jul 12 14:19:54 BRT 2022
+#Fri Jul 15 13:30:03 BRT 2022
 COLORED_SHADOWS=true
 shadowDistance=256.0
 AO_QUALITY=2
