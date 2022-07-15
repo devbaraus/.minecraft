@@ -3,8 +3,10 @@
 !mods/
 !mods/*.jar
 !resourcepacks/
-!resourcepacks/**/*
+!resourcepacks/**/*.zip
 !screenshots/
 !screenshots/**/*
 !shaderpacks/
-!shaderpacks/**/*
+!shaderpacks/**/*.zip
+!config/
+!config/**/*
