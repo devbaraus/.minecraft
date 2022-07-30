@@ -1,6 +1,4 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
 #
-waypoint:WILD:W:-11382:65:-640:12:false:0:gui.xaero_default:false:0:false
-waypoint:Portal:P:873:38:-1958:0:false:0:gui.xaero_default:false:0:false
-waypoint:KEK:K:2498:72:-1118:7:false:0:gui.xaero_default:false:0:false
+waypoint:gui.xaero_deathpoint_old:D:54:63:535:0:false:2:gui.xaero_default:false:0:true
