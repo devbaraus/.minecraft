@@ -1,0 +1,14 @@
+*
+!.gitignore
+!mods/
+!mods/*.jar
+!resourcepacks/
+!resourcepacks/**/*.zip
+!screenshots/
+!screenshots/**/*
+!shaderpacks/
+!shaderpacks/**/*.zip
+!config/
+!config/**/*
+!XaeroWaypoints/
+!XaeroWaypoints/**/*

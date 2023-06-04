@@ -1,0 +1,74 @@
+debug = false
+disable_crowdin = false
+check_for_updates = false
+
+key_bindings = []
+
+
+[addons.pv-addon-soundphysics]
+"gui.plasmovoice.soundphysics.mic_reverb_volume" = 1.0
+"gui.plasmovoice.soundphysics.enabled" = true
+"gui.plasmovoice.soundphysics.mic_reverb" = true
+
+[voice]
+disabled = false
+microphone_disabled = true
+activation_threshold = -30.0
+input_device = ""
+output_device = ""
+use_javax_input = false
+microphone_volume = 1.0
+noise_suppression = false
+volume = 1.0
+compressor_limiter = true
+sound_occlusion = false
+directional_sources = false
+hrtf = false
+stereo_capture = false
+
+[voice.volumes.source_7eeaef48-0e2b-4f47-b205-89171382d072]
+volume = 1.0
+[voice.volumes.broadcast]
+volume = 1.0
+[voice.volumes.source_dd96c738-6665-483b-82af-80eb2bca976a]
+volume = 1.0
+[voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.source_97d38392-47cb-410e-a8fb-d5544a74ad30]
+volume = 1.0
+[voice.volumes.source_b9676ae2-b6b7-302c-880d-29bdb55833e6]
+volume = 1.0
+[voice.volumes.source_9528aaee-a0e1-4667-ba91-9203427de286]
+volume = 1.0
+[voice.volumes.discs]
+volume = 1.0
+[voice.volumes.source_347076a7-6e9c-49af-ace0-ee1a3de82c36]
+volume = 1.0
+[voice.volumes.source_d539dd80-bff9-4126-863e-ba41755de3b4]
+volume = 1.0
+
+[advanced]
+visualize_voice_distance = true
+visualize_voice_distance_on_join = false
+compressor_threshold = -10
+limiter_threshold = -6
+directional_sources_angle = 145
+stereo_sources_to_mono = false
+panning = true
+camera_sound_listener = true
+exponential_volume_slider = true
+exponential_distance_gain = true
+
+[overlay]
+show_activation_icon = true
+activation_icon_position = "BOTTOM_CENTER"
+show_source_icons = 1
+show_static_source_icons = true
+overlay_enabled = true
+overlay_position = "TOP_LEFT"
+overlay_style = "NAME_SKIN"
+
+[overlay.source_states]
+broadcast = "ON"
+proximity = "ON"
+discs = "ON"

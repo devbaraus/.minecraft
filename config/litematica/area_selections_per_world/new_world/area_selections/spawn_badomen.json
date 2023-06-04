@@ -1,0 +1,19 @@
+{
+  "name": "spawn_badomen",
+  "current": "spawn_badomen",
+  "boxes": [
+    {
+      "pos1": [
+        180,
+        91,
+        -31
+      ],
+      "pos2": [
+        180,
+        91,
+        -31
+      ],
+      "name": "spawn_badomen"
+    }
+  ]
+}
